@@ -6,8 +6,6 @@ class fullscreen extends StatefulWidget {
   List<SongModel> songModel;
   int pos;
 
-
-
   fullscreen(this.songModel, this.pos);
 
   @override
